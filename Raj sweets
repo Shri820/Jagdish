@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raj Sweets & Caterers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Raj Sweets & Caterers</h1>
+        <p>Providing high-class catering for all types of events</p>
+        <p>Location: East Delhi, Krishna Nagar, Delhi 110051</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#menu">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We specialize in providing pure vegetarian Indian sweets, snacks, and high-quality catering services for various events.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>We offer catering services for weddings, parties, corporate events, and more. Our menu includes a wide variety of delicious vegetarian dishes, Indian sweets, and snacks.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Menu</h2>
+        <p>Explore our mouth-watering menu comprising of traditional Indian sweets and savory snacks.</p>
+        <!-- Add menu items here -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@rajsweetscaterers.com</p>
+        <p>Phone: +91 123 456 7890</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
